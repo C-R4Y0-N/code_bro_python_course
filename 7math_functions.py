@@ -7,7 +7,7 @@ c=3
 #print(math.ceil(pi))
 #print(math.floor(pi))
 ##print(abs(pi)) A.K.A Valor absoluto
-##print(pow(pi,2))
+##print(i)
 ##print(math.sqrt(9))
 ##print(max(1,2,3))
 ##print(min(1,2,3))
